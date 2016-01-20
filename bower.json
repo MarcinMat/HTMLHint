@@ -1,0 +1,21 @@
+{
+  "name": "htmlhint",
+  "version": "0.9.12",
+  "description": "A Static Code Analysis Tool for HTML",
+  "homepage": "https://github.com/yaniswang/HTMLHint",
+  "authors": [
+    "Yanis Wang"
+  ],
+  "license": "MIT",
+  "main": "./lib/htmlhint.js",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
